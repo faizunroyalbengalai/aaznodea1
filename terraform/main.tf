@@ -17,7 +17,7 @@ variable "project_name" {
 }
 variable "azure_region" {
   type    = string
-  default = "eastus"
+  default = "eastus2"
 }
 variable "public_key" {
   type = string
